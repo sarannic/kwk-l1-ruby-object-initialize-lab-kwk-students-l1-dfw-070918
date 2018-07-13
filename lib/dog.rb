@@ -13,6 +13,7 @@ class Dog
     @breed
   end 
   
+  @breed = "Mutt"
 end 
 
 fido = Dog.new("Fido", "Pug")
