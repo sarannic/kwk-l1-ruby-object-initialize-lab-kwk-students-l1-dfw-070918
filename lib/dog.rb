@@ -12,7 +12,6 @@ class Dog
     @breed
   end 
   
-  
-  
 end 
 
+fido.breed 
